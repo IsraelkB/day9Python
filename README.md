@@ -23,6 +23,3 @@ If there are other bidders, the screen should clear, so you can pass your phone 
 ```
 The winner is Elon with a bid of $55000000000
 ```
-# Solution
-
-[https://replit.com/@appbrewery/blind-auction-completed](https://replit.com/@appbrewery/blind-auction-completed?v=1)
